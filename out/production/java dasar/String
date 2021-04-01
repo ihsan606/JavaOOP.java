@@ -1,0 +1,16 @@
+/**
+ * String
+ */
+import java.util.Scanner;
+public class String {
+    public static Scanner input = new Scanner(System.in);
+
+    public static void main(String[] args) {
+        System.out.println("alamat :");
+        int alamat ;
+        alamat =input.nextInt();
+        System.out.println("umur :");
+        String umur = input.nextLine();
+
+    }
+}
