@@ -5,6 +5,7 @@ class ProductApp {
         Product product = new Product("kipas",50000);
         product.name = "sepatu";
         System.out.println(product.name);
+        System.out.println(product);
 
     }
 }
