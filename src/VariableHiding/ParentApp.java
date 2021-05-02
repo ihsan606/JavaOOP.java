@@ -1,3 +1,5 @@
+package VariableHiding;
+
 class ParentApp {
     public static void main(String[] args) {
         Child child = new Child();
